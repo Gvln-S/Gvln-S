@@ -24,6 +24,7 @@
 <div>
      <img src="https://img.shields.io/badge/CISCO-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)](https://img.shields.io/badge/CISCO-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white">
 </div>
+<hr>
 <a href="https://visitcount.itsvg.in">
     <img src="https://visitcount.itsvg.in/api?id=Gavilan-S&icon=5&color=12" alt="Visitor Count">
 </a>
