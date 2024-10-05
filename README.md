@@ -26,6 +26,6 @@
 </div>
 <hr>
 <a href="https://visitcount.itsvg.in">
-    <img src="https://visitcount.itsvg.in/api?id=Gavilan-S&icon=5&color=12" alt="Visitor Count">
+    <img src="https://visitcount.itsvg.in/api?id=Gavilan-S&icon=5&color=1" alt="Visitor Count">
 </a>
 
