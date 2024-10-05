@@ -1,7 +1,6 @@
 
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Open+Sans&weight=600&size=25&letterSpacing=0.025em&duration=3500&pause=1500&color=F7F7F7&width=400&height=30&lines=Hi+There!+%F0%9F%A4%9A;I'm+Santiago+Gavil%C3%A1n+%F0%9F%A7%91%E2%80%8D%F0%9F%92%BB;Computer+Engineering+Student+%F0%9F%A7%91%E2%80%8D%F0%9F%92%BB" alt="Typing SVG" /></a>
-
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Open+Sans&weight=600&size=25&letterSpacing=0.025em&duration=3500&pause=1500&color=F7F7F7&width=476&height=40&lines=Hi+There!+%F0%9F%A4%9A;I'm+Santiago+Gavil%C3%A1n+%F0%9F%A7%91%E2%80%8D%F0%9F%92%BB;Computer+Engineering+Student+%F0%9F%A7%91%E2%80%8D%F0%9F%92%BB" alt="Typing SVG" /></a>
 <p>Languages</p>
 <div>
     <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java">
