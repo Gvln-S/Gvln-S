@@ -14,6 +14,9 @@
 </div>
 <p>Tools</p>
 <div>
+     <img src="https://img.shields.io/badge/OpenGL-FFFFFF?style=for-the-badge&logo=opengl">
+</div>
+<div>
      <img src="https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the-badge&logo=neovim&logoColor=white">
 </div>
 <div>
