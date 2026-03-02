@@ -10,26 +10,26 @@
 
 I am a **Computer Engineering Student** with a strong focus on Backend Development, Cybersecurity, and Network Diagnostics. I am passionate about optimizing development environments (as seen in my custom Neovim configurations) and building robust web applications.
 
-* **I’m currently working on:** A full-stack web application for **World Cup 2026 Predictions** using Spring Boot, Docker, and MySQL.
-* **I’m currently learning:** Advanced **Cybersecurity** protocols and expanding my knowledge in **Cloud Architecture**.
-* **Engineering Projects:** Automating solar panel mechanisms using meteorological data inputs.
+* **I’m currently working on:** **Gvln-OS**, a minimalist 32-bit x86 kernel built from scratch.
+* **I’m currently learning:** **OSDev** (low-level software-hardware interaction), Advanced **Cybersecurity** protocols and expanding my knowledge in **Cloud Architecture**.
+* **Engineering Projects:** Developing custom VGA drivers, implementing Multiboot compliant kernels, and automating solar panel mechanisms.
 * **Daily Drive:** Linux (Debian/Fedora) & Neovim.
 
 ### Tech Stack & Tools
 
 <div>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,spring,mysql,docker,cpp,python,lua,vim,neovim,git,linux,bash,js,ts,angular,firebase,maven,gradle,jenkins&perline=10" />
+    <img src="https://skillicons.dev/icons?i=c,cpp,java,bash,js,ts,lua,python,linux,bsd,cmake,spring,gradle,maven,nodejs,raspberrypi,docker,mysql,firebase,vim,neovim,git,jenkins,angular&perline=10" />
   </a>
 </div>
 <br>
 
 | Category | Technologies |
 | :--- | :--- |
-| **Backend & Core** | Java (Spring Boot), C++, Python, MySQL |
-| **DevOps & Cloud** | Docker, Jenkins, Firebase, Linux Administration |
-| **Web & Scripting** | JavaScript, TypeScript, Angular, Bash, Lua |
-| **Tools** | Neovim (Advanced Config), Git, CMake, Maven/Gradle |
+| **Backend & Core** | C (OSDev), Java (Spring Boot), C++, Python, MySQL |
+| **DevOps & Cloud** | Docker, Jenkins, Firebase, Linux (Debian/Fedora) |
+| **Web & Scripting** | JavaScript, TypeScript, Angular, Bash, Assembly (x86), Lua |
+| **Tools** | Neovim (Advanced Config), QEMU, Git, i686-elf-gcc, CMake, Maven/Gradle |
 
 <div>
   <p><i>Open to opportunities in IT infrastructure, IT architecture planning, cybersecurity, and back-end development.</i></p>
