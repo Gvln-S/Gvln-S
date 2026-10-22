@@ -1,5 +1,5 @@
 <div>
-  <a><img src="https://readme-typing-svg.demolab.com?font=Open+Sans&weight=600&size=25&letterSpacing=0.025em&duration=3500&pause=1500&color=F7F7F7&width=460&height=40&lines=Hi+There!;I'm+Gvln-S;Cybersecurity+Analyst" alt="Typing SVG"/></a>
+  <a><img src="https://readme-typing-svg.demolab.com?font=Open+Sans&weight=600&size=25&letterSpacing=0.025em&duration=3500&pause=1500&color=F7F7F7&width=460&height=40&lines=Hi+There!;I'm+Santiago+Gavilán;Cybersecurity+Analyst" alt="Typing SVG"/></a>
 </div>
 
 <div>
